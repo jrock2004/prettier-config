@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "Prettier configured the way I like it",
   "main": "index.json",
+  "author": "jrock2004",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -16,5 +17,9 @@
     "type": "git",
     "url": "https://github.com/jrock2004/prettier-config"
   },
-  "homepage": "https://github.com/jrock2004/prettier-config"
+  "homepage": "https://github.com/jrock2004/prettier-config",
+  "bugs": "https://github.com/jrock2004/prettier-config/issues",
+  "engines": {
+    "node": ">=10"
+  },
 }
