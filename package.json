@@ -1,0 +1,12 @@
+{
+  "name": "@jrock2004/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configured the way I like it",
+  "main": "index.json",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+}
