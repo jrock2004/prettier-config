@@ -21,5 +21,5 @@
   "bugs": "https://github.com/jrock2004/prettier-config/issues",
   "engines": {
     "node": ">=10"
-  },
+  }
 }
