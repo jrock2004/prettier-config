@@ -9,4 +9,9 @@
     "prettier",
     "config"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrock2004/prettier-config"
+  },
+  "homepage": "https://github.com/jrock2004/prettier-config"
 }
