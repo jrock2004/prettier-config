@@ -12,13 +12,10 @@ Install the package:
 > npm install -save-dev @jrock2004/prettier-config
 ```
 
-Add the following to your `package.json`:
+Add the following somewhere to your `package.json`:
 
 ```json
 {
-  "name": "your-project",
-  //...
   "prettier": "@jrock2004/prettier-config"
-  //...
 }
 ```
