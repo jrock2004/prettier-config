@@ -5,6 +5,9 @@
   "main": "index.json",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
   "keywords": [
     "prettier",
     "config"
