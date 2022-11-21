@@ -1,6 +1,6 @@
 {
   "name": "@jrock2004/prettier-config",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "Prettier configured the way I like it",
   "main": "index.json",
   "author": "jrock2004",
